@@ -1,4 +1,4 @@
-### Hi there, I'm Sergey 👋
+### Hi there, I'm Sergey
 
 I am an **Android Developer**. I independently developed the mobile application for learning foreign languages called **[YoWord](https://play.google.com/store/apps/details?id=app.yoword)**:
 
@@ -16,7 +16,7 @@ I am an **Android Developer**. I independently developed the mobile application 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 * Kotlin
 * Coroutines
 * Ktor 
@@ -27,6 +27,6 @@ I am an **Android Developer**. I independently developed the mobile application 
 
 ---
 
-### 📫 Contact
+### Contact
 You can reach me via email at sergey.vinnichenko@gmail.com, as well as on [Telegram](https://t.me/sergeyvinnichenko) and [WhatsApp](https://wa.me/380636036612).
 
