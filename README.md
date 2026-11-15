@@ -28,4 +28,4 @@ I am an **Android Developer**. I independently developed the mobile application 
 ---
 
 ### 📫 Contact
-You can reach me via email at sergey.vinnichenko@gmail.com, as well as on [Telegram](https://t.me/sergeyvinnichenko) and [WhatsApp](https://wa.me/48732867424).
+You can reach me via email at sergey.vinnichenko@gmail.com, as well as on [Telegram](https://t.me/sergeyvinnichenko) and [WhatsApp](https://wa.me/380636046612).
