@@ -30,3 +30,8 @@ I am an **Android Developer**. I independently developed the mobile application 
 ### 📫 Contact
 You can reach me via email at sergey.vinnichenko@gmail.com, as well as on [Telegram](https://t.me/sergeyvinnichenko) and [WhatsApp](https://wa.me/380636036612).
 
+---
+
+### 📊 GitHub Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-vinnichenko&layout=compact&theme=github_dark)](https://github.com/sergey-vinnichenko)
+
